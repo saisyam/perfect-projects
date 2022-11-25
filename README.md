@@ -1,2 +1,2 @@
 # perfect-projects
-Perfect data workflow projects
+Prefect data workflow projects
